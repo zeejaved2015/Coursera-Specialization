@@ -1,0 +1,25 @@
+{
+  "name": "coursera-specialization",
+  "version": "1.0.0",
+  "description": "This is a first npm and package.json file for learning",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeejaved2015/Coursera-Specialization.git"
+  },
+  "keywords": [
+    "Learning"
+  ],
+  "author": "Zeeshan Javed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeejaved2015/Coursera-Specialization/issues"
+  },
+  "homepage": "https://github.com/zeejaved2015/Coursera-Specialization#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
